@@ -18,4 +18,4 @@ spec:
       - name: spring-boot-app
         image: sammy34719/pipeline:17
         ports:
-        - containerPort: 9091
+        - containerPort: 8080
